@@ -3,7 +3,7 @@
 	url = git://github.com/overtone/overtone.git
 [submodule "checkouts/monome-serial"]
 	path = checkouts/monome-serial
-	url = git://github.com/samaaron/clj-monome-serial.git
+	url = git://github.com/improcess/monome-serial.git
 [submodule "checkouts/polynome"]
 	path = checkouts/polynome
 	url = git://github.com/improcess/polynome.git
