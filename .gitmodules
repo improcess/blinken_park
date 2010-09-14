@@ -10,3 +10,6 @@
 [submodule "checkouts/overtone-contrib"]
 	path = checkouts/overtone-contrib
 	url = git://github.com/improcess/overtone-contrib.git
+[submodule "checkouts/at-at"]
+	path = checkouts/at-at
+	url = git://github.com/improcess/at-at.git
